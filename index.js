@@ -194,5 +194,5 @@ function replaceNumbers(arr) {
 }
 
 console.log("Завдання 13 ====================================");
-console.log(replaceNumbers([5, 10, 15, 20])); // Виведе ["Less than or equal to 10", "Less than or equal to 10", "Greater than 10", "Greater than 10"]
+console.log(replaceNumbers([5, 10, 15, 20])); //  ["Less than or equal to 10", "Less than or equal to 10", "Greater than 10", "Greater than 10"]
 
